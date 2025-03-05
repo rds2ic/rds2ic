@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 second year computer science student @ University of Warwick
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhyanam-shah-117909249) 
 
 # 💻 Tech Stack:
